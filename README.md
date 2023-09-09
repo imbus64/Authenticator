@@ -25,7 +25,7 @@
 - EC
 - Key memory zeroization
 - Backup routine
-- (Password strength checking)[https://github.com/shssoichiro/zxcvbn-rs]
+- [Password strength checking](https://github.com/shssoichiro/zxcvbn-rs)
 
 ### Considerations
 
