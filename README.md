@@ -16,6 +16,7 @@
 
 ### TODO
 
+- Suitable return types for database helper functions
 - Unit, integration and fuzz testing
 - Argument parsing
 - Config file
