@@ -9,9 +9,12 @@ edition = "2021"
 actix-web = "4.3.1"
 argon2 = { version = "0.5.1", features = ["password-hash"] }
 chrono = { version = "0.4.26", features = ["serde"] }
+env_logger = "0.10.0"
 jsonwebtoken = "8.3.0"
+log = "0.4.20"
 rand_core = "0.6.4"
 # ring = "0.16.20"
 serde = { version = "1.0.183", features = ["derive"] }
 sha2 = "0.10.7"
 sled = { version = "0.34.7" }
+uuid = { version = "1.4.1", features = ["serde", "v4"] }
